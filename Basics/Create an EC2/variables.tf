@@ -1,5 +1,3 @@
-
-
 variable "access_key" {
   description = "aws access_key"
   type        = string
